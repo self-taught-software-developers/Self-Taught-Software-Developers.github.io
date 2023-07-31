@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "watch": "sass --watch sass/:css/ --style compressed",
+    "compile:css": "sass sass/:css/ --style compressed",
+    "bundle": "dir-archiver --src . --dest ../_s.zip --exclude .DS_Store .stylelintrc.json .eslintrc .git .gitattributes .github .gitignore README.md composer.json composer.lock node_modules vendor package-lock.json package.json .travis.yml phpcs.xml.dist sass style.css.map yarn.lock"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "sass": "^1.64.1"
+  }
+}

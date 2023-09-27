@@ -4098,6 +4098,7 @@ fieldset:disabled .btn {
   color: var(--bs-navbar-brand-color);
   text-decoration: none;
   white-space: nowrap;
+  margin-right: 20rem;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {

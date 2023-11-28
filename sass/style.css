@@ -197,6 +197,13 @@
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
+    scroll-padding-top: 70px;
+  }
+}
+
+@media (max-width: 679px) {
+  html {
+    scroll-padding-top: 150px !important;
   }
 }
 

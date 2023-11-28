@@ -201,6 +201,12 @@
   }
 }
 
+@media (max-width: 679px) {
+  html {
+    scroll-padding-top: 150px !important;
+  }
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);

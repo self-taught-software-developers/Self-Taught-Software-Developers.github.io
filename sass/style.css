@@ -4107,6 +4107,13 @@ fieldset:disabled .btn {
   white-space: nowrap;
   margin-right: 20rem;
 }
+
+@media screen and (max-width: 1024px) {
+  .navbar-brand {
+    display: none;
+  }
+}
+
 .navbar-brand:hover,
 .navbar-brand:focus {
   color: var(--bs-navbar-brand-hover-color);

@@ -12597,6 +12597,18 @@ body {
   letter-spacing: -0.05rem;
 }
 
+/* hover effects
+  -------------------------------------------------- */
+
+ a.link-effect {
+  display: inline-block;
+  transition: transform 0.3s;
+}
+
+a.link-effect:hover {
+  transform: translateY(-5px);
+}
+
 /* RESPONSIVE CSS
   -------------------------------------------------- */
 @media (min-width: 40em) {

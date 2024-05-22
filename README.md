@@ -28,7 +28,7 @@ This group is for anyone interested in Software Development but has little exper
 
 ## Contributing
 
-This application is open-source. To contribute to this application, clone our repo and take a look at the issues posted in our issues tab.
+This application is open-source. To contribute to this application, fork our repo and take a look at the issues posted in our issues tab.
 
 ## Link
 <p style="text-align: center;">

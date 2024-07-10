@@ -19,7 +19,7 @@
 This group is for anyone interested in Software Development but has little experience in the field. However, developers of all backgrounds are welcome. This community is where individuals new to software development can come together every two weeks to debrief and discuss various topics. In addition, individuals can share resources, ask questions, and provide (or request) assistance with technical and non-technical questions. We also offer guest speakers and networking opportunities. Please refer to our calendar to see what we have coming up. </p>
 
 ## Screenshot
-![A screenshot of our website.](./img/selftaughtdevelopers.org_small.png)
+![A screenshot of our website.](./img/st-sd-banner.png)
 
 ## Contributing
 
